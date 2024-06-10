@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b39e7086.css",
+    "main.js": "/react-gh-pages/static/js/main.cad54b79.js",
+    "static/media/10020.png": "/react-gh-pages/static/media/10020.9310b78a939a700ffdc4.png",
+    "static/media/bg.jpg": "/react-gh-pages/static/media/bg.2618ba7e772c3d1f66ce.jpg",
+    "static/media/product06.jpg": "/react-gh-pages/static/media/product06.876eafa697091f11cd1c.jpg",
+    "static/media/product07.jpg": "/react-gh-pages/static/media/product07.447f504520d9f4c2d09f.jpg",
+    "static/media/product04.jpg": "/react-gh-pages/static/media/product04.bd0e79ae7ec95fe2e5f2.jpg",
+    "static/media/product09.jpg": "/react-gh-pages/static/media/product09.c800e64668f82f4c7d05.jpg",
+    "static/media/product01.jpg": "/react-gh-pages/static/media/product01.5221b83bd08ba8b6328c.jpg",
+    "static/media/product05.jpg": "/react-gh-pages/static/media/product05.fc150ed2e744225b3b25.jpg",
+    "static/media/product08.jpg": "/react-gh-pages/static/media/product08.eb7914fad75b649bacd0.jpg",
+    "static/media/product03.jpg": "/react-gh-pages/static/media/product03.7a6362f065031a3d09a5.jpg",
+    "static/media/product02.jpg": "/react-gh-pages/static/media/product02.ef547471292e82c043cd.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b39e7086.css.map": "/react-gh-pages/static/css/main.b39e7086.css.map",
+    "main.cad54b79.js.map": "/react-gh-pages/static/js/main.cad54b79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39e7086.css",
+    "static/js/main.cad54b79.js"
+  ]
+}
